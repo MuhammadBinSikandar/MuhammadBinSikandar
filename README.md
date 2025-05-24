@@ -73,8 +73,8 @@
 
 ## 📘 Articles
 
-* [Building SaaS from Scratch with Django](https://medium.com/@ahmadexe/fluttergo-a-fullstack-master-class-20154dd1d0e5) *(inspired post link — add yours once published)*
-* [Automating Lead Generation with AI Agents](#) *(write & add if published)*
+* [Liquid Neural Networks: The Future of Real-Time AI Learning](https://medium.com/@m.bin.sikandar/liquid-neural-networks-the-future-of-real-time-ai-learning-bfcb2f30962e) *(inspired post link — add yours once published)*
+* [Multi-agent Collaboration Protocol (MCP): The Future of AI Teamwork](https://medium.com/@m.bin.sikandar/multi-agent-collaboration-protocol-mcp-the-future-of-ai-teamwork-a96e0c2e6d2f) *(write & add if published)*
 
 <h2>Languages and Tools 🛠️</h2>
 
