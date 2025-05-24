@@ -182,8 +182,11 @@
 
 ## 📈 Stats
 
-<p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBinSikandar&layout=compact&hide=html,cmake&theme=github_dark" /></p>
-<p><img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadBinSikandar&theme=github_dark&show_icons=true&count_private=true" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadBinSikandar&show_icons=true&count_private=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBinSikandar&layout=compact&hide=html,cmake&theme=github_dark" />
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammadBinSikandar&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadBinSikandar" /> </p>
 
