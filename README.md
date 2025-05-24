@@ -111,9 +111,6 @@
   <a href="https://daisyui.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/93950582?s=200&v=4" alt="DaisyUI" width="40" height="40"/>
   </a>
-  <a href="https://htmx.org/" target="_blank" rel="noreferrer">
-    <img src="https://htmx.org/img/htmx_logo.512.png" alt="htmx" width="40" height="40"/>
-  </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
@@ -137,13 +134,12 @@
   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a>
 
   <!-- AI / ML / Automation -->
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/363162?s=200&v=4" alt="NLP/NLTK" width="40" height="40"/>
-  </a>
-  <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Beautiful_Soup_Logo.png" alt="BeautifulSoup" width="40" height="40"/>
   </a>
   <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/73496053?s=200&v=4" alt="Pinecone" width="40" height="40"/>
@@ -155,9 +151,6 @@
   </a>
   <a href="https://railway.app/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/78782338?s=200&v=4" alt="Railway" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS EC2" width="40" height="40"/>
   </a>
   <a href="https://stripe.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" alt="Stripe" width="40" height="40"/>
