@@ -1,4 +1,4 @@
-[![My GitQuest Creature](https://gitquest.is-a.software/api/widget/MuhammadBinSikandar?v=5)](https://gitquest.is-a.software/MuhammadBinSikandar)
+
 <img align="center" alt="Coding" width="1000" src="https://i.gifer.com/33HI.gif">
 <h1 align="center">cout<<"Already here hehehehehehehe :)";</h1>
 <h3 align="center">Transforming ideas into AI-driven systems and scalable SaaS platforms through Python and Django.</h3>
@@ -180,6 +180,9 @@
 * Coursera: Python
 * DeepLearning.AI: AI For Everyone
 * Cisco: Introduction to Networks
+
+## GitQuest
+[![My GitQuest Creature](https://gitquest.is-a.software/api/widget/MuhammadBinSikandar?v=5)](https://gitquest.is-a.software/MuhammadBinSikandar)
 
 ## 📈 Stats
 
